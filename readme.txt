@@ -3,3 +3,4 @@ Git練習スタート
 create branch
 マージをしてみる
 コンフリクト
+pushしてみる
