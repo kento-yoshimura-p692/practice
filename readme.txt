@@ -4,3 +4,4 @@ create branch
 マージをしてみる
 コンフリクト
 pushしてみる
+再度pushしてみる
